@@ -1,5 +1,7 @@
 # Visual Studio user-specific files
 .vs/
+bin/
+obj/
 *.user
 *.suo
 *.userosscache
@@ -21,3 +23,4 @@
 # OS files
 .DS_Store
 Thumbs.db
+appsettings.Local.json
