@@ -49,6 +49,15 @@
 modules.order
 Module.symvers
 Mkfile.old
+
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.Local.json
 dkms.conf
 
 # debug information files
